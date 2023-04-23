@@ -1,0 +1,31 @@
+[33mcommit 4d840ae3fb5c04e98f1e14d7587720522bf07580[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Mônica Almeida <monicaalmeida346@hotmail.com>
+Date:   Sun Apr 23 20:18:46 2023 -0300
+
+    inclusão de changelog.md
+
+[33mcommit 42d211d4c1b1f9394641b5656d024f708991f82d[m
+Author: Mônica Almeida <monicaalmeida346@hotmail.com>
+Date:   Sun Apr 23 20:09:27 2023 -0300
+
+    colocando acentuação no arquivo2.txt
+
+[33mcommit 596054494a0ee0c0600b0aa320b8bcefe715b4ff[m
+Author: Mônica Almeida <monicaalmeida346@hotmail.com>
+Date:   Sun Apr 23 20:08:24 2023 -0300
+
+    alterando o conteudo do arquivo2.txt
+
+[33mcommit 29edb47a6074e0f8cc1ae9c8d29cb1a4e3b1923e[m
+Author: Mônica Almeida <monicaalmeida346@hotmail.com>
+Date:   Sun Apr 23 20:05:38 2023 -0300
+
+    Inclusão de novos arquivos.
+    
+    Inclusão  dos arquivos: arquivo.txt e arquivo2.txt
+
+[33mcommit a94162bf07d13c348423f5e26f745d618497ca2c[m
+Author: Mônica Almeida <monicaalmeida346@hotmail.com>
+Date:   Sun Apr 23 19:52:28 2023 -0300
+
+    commit inicial
